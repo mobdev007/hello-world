@@ -6,3 +6,9 @@ Let me help myself with a introduction.
 I made a lots of simple basic learning app
 But is that enough to get the knowledge
 I say not sufficient.
+
+
+
+
+
+Finally I have known about commiting a file pull request and merge.
